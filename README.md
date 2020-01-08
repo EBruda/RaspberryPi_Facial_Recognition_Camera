@@ -6,8 +6,8 @@ The folder named ```liveness-detection-opencv``` contains the code for the secur
 How to run it:
 1. Navigate to the folder 
 2. Command:
-    ```$ python liveness_demo.py --model liveness.model --le le.pickle \
-	--detector face_detector```
+    ``$ python liveness_demo.py --model liveness.model --le le.pickle \
+	--detector face_detector ``
 
 
 The folder named ```opencv-face-recognition ``` contains the code for the security camera with just facial recognition.
